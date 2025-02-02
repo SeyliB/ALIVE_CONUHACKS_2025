@@ -1,4 +1,4 @@
-# Play our game NOW on roblox! 
+# ALIVE is NOW available on roblox! 
 https://www.roblox.com/games/85559614078651/ALIVE
 
 # Inspiration
@@ -25,5 +25,3 @@ Add more **weapons**, **maps**, **game modes**, and more!
 # Built With
 - **Lua**
 - **Roblox Studio**
-
-[Try it out](#)
